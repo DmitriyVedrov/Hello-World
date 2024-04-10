@@ -1,5 +1,5 @@
 public class Main {
    public static void main(String[] args) {
-System.out.println("\n\t\t\t Hellow People!!! \n");
+System.out.println("\n\t\t\t Hellow Women!!! \n");
    }
 }
